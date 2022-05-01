@@ -1,9 +1,9 @@
 # kazi-samir-noteapp
-This is a simple flask To Do note website
+## This is a simple flask To Do note website
 
 
 ### unzip and install npm dependants than run .
-default is localhost:8000
+### default is localhost:8000
 
 
 
